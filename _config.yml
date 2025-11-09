@@ -26,7 +26,7 @@ email: qiaolun.zhang@polimi.it
 #   line in _config.yml. It will appear in your document head meta (for
 #   Google search results) and in your feed.xml site description.
 description: >- # this means to ignore newlines until "baseurl:"
-  我们是一家专注于中欧科技咨询与技术转移的创新型企业（在筹）。主要为中国中小型企业提供欧洲先进技术对接服务，并为已与欧洲合作的大型企业提供本地化落地与项目推进支持。团队成员来自意大利米兰理工大学、四川大学、上海交通大学等知名高校，具备跨国科技项目管理与市场咨询经验。
+  我们是一家专注于中欧科技咨询与技术转移的创新型企业（在筹）。团队成员来自意大利米兰理工大学、四川大学、上海交通大学等知名高校，具备跨国科技项目管理与市场咨询经验。公司目前正在米兰完成注册流程，预计很快正式成立。目前我们的团队已经在意大利本地开展项目沟通，也在对接欧洲几家机构，希望通过这次创新周找到在中国的首批合作伙伴。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sinoitalia.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
